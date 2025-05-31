@@ -2,4 +2,4 @@
 .env
 
 # Remover pasta storage
-./storage
+storage/
